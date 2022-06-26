@@ -14,4 +14,6 @@ iceCream.add('chocolate')
 .add('strawberry')
 .add('vanilla');
 
-//What is the second value in our iceCream Set?
+//What is the size of our iceCream Set?
+
+console.log("How big is the iceCream set", iceCream.size)
